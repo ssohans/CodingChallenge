@@ -12,5 +12,6 @@ Ensure the following tools are installed on your system:
 ## Setup Instructions
 
 1. Clone the repository
-2. To run the project use `dotnet run` from `C#CodingChallenge` folder 
+2. To build the project use  `dotnet build` from the `root `
+3. To run the project use `dotnet run` from `C#CodingChallenge` folder 
 4. To run the tests use `dotnet test` from the `root `
